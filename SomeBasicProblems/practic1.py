@@ -42,18 +42,23 @@
 #Palindrome
 # madam , mom , dad , sis , boob ,tit
 
-def check_word():
-    user_input = input("enter a string: ") # kiss sis hammad lol boob
-    split_string = user_input.split()
-    lst = []
-    for word in split_string:
-        if word == word[::-1]:
-            lst.append(word)
-    print(lst)
-check_word()
+# def check_word():
+#     user_input = input("enter a string: ") # kiss sis hammad lol boob
+#     split_string = user_input.split()
+#     lst = []
+#     for word in split_string:
+#         if word == word[::-1]:
+#             lst.append(word)
+#     print(lst)
+# check_word()
 
-
-
+string1 = ' ***@#$%^&*()hello hamad^^$# kesay &^^$%ho *** '
+special_chr = '@#%$^&*()_+'
+str = ''
+for i in string1:
+    if i not in special_chr:
+        str += i
+print(str)
 
 
 

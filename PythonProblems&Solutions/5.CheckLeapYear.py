@@ -5,5 +5,4 @@ def leap_year():
         print(f'{year} is a Leap Year')
     else:
         print(f'{year} is a NOT a Leap Year')
-
 leap_year()
