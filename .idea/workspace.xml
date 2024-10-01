@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cff1b0c2-f676-4fc3-8da8-6541356794cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/6.SumOfNaturalNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/7.CountOccOfVowelsConsonants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/10.FibonacciSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/11.ComplexClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/12.AreaOfCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/8.Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/9.PrimeNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProblems&amp;Solutions/5.CheckLeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/5.CheckLeapYear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProblems&amp;Solutions/6.SumOfNaturalNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProblems&amp;Solutions/6.SumOfNaturalNum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SomeBasicProblems/practic1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SomeBasicProblems/practic1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,33 +41,37 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.SwapTwoVariables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.AreaOfTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.ConvertKmToMiles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.ConvertCelsiustoFahrenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.SumOfNaturalNum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.CountOccOfVowelsConsonants.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CheckLeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem10-14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem15-20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem16-20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Program1-6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Program1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practic1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.program2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.program6-12 (1).executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PythonPractic&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.SwapTwoVariables.executor": "Run",
+    "Python.10.FibonacciSequence.executor": "Run",
+    "Python.11.ComplexClass.executor": "Run",
+    "Python.2.AreaOfTriangle.executor": "Run",
+    "Python.3.ConvertKmToMiles.executor": "Run",
+    "Python.4.ConvertCelsiustoFahrenheit.executor": "Run",
+    "Python.6.SumOfNaturalNum.executor": "Run",
+    "Python.7.CountOccOfVowelsConsonants.executor": "Run",
+    "Python.8.Factorial.executor": "Run",
+    "Python.9.PrimeNumbers.executor": "Run",
+    "Python.CheckLeapYear.executor": "Run",
+    "Python.Problem10-14.executor": "Run",
+    "Python.Problem15-20.executor": "Run",
+    "Python.Problem16-20.executor": "Run",
+    "Python.Program1-6.executor": "Run",
+    "Python.Program1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.practic1.executor": "Run",
+    "Python.program2.executor": "Run",
+    "Python.program6-12 (1).executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/PythonPractic",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
-  <component name="RunManager" selected="Python.7.CountOccOfVowelsConsonants">
-    <configuration name="4.ConvertCelsiustoFahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.practic1">
+    <configuration name="10.FibonacciSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/4.ConvertCelsiustoFahrenheit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/10.FibonacciSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.CheckLeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.ComplexClass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PythonPractic\PythonProblems&amp;Solutions\5.CheckLeapYear.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/11.ComplexClass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.SumOfNaturalNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8.Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/6.SumOfNaturalNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/8.Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.CountOccOfVowelsConsonants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.PrimeNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/7.CountOccOfVowelsConsonants.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProblems&amp;Solutions/9.PrimeNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7.CountOccOfVowelsConsonants" />
         <item itemvalue="Python.practic1" />
-        <item itemvalue="Python.6.SumOfNaturalNum" />
-        <item itemvalue="Python.5.CheckLeapYear" />
-        <item itemvalue="Python.4.ConvertCelsiustoFahrenheit" />
+        <item itemvalue="Python.11.ComplexClass" />
+        <item itemvalue="Python.10.FibonacciSequence" />
+        <item itemvalue="Python.9.PrimeNumbers" />
+        <item itemvalue="Python.8.Factorial" />
       </list>
     </recent_temporary>
   </component>
